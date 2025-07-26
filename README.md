@@ -12,7 +12,7 @@
 ## 💻 What I’m Working On
 
 - 🤖 **AI-Powered Chatbots** using FastAPI, OpenAI, and LangChain  
-- 🎬 **Movie Recommendation System** using TMDB 5000 dataset  
+- 🎬 **Movie Recommendation System** using TMDB dataset  
 - 🧠 **Medical Chat Assistant** using LLM + Pinecone + Streamlit  
 etc.....
 
