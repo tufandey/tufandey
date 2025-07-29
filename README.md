@@ -25,7 +25,7 @@ etc.....
 - **Frameworks:** Streamlit, FastAPI, Flask  
 - **AI/ML:** Scikit-learn, OpenAI API, LangChain, Pinecone, TensorFlow  
 - **Tools:** GitHub, Docker, VS Code
--
+
 
 ---
 
