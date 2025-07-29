@@ -10,7 +10,8 @@
 ---
 
 ## 💻 What I’m Working On
-https://pixabay.com/videos/source-code-development-code-4733/
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e85ebc8-1728-4c37-9e17-05a674d4a582" />
+
 
 - 🤖 **AI-Powered Chatbots** using FastAPI, OpenAI, and LangChain  
 - 🎬 **Movie Recommendation System** using TMDB dataset  
